@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6b3ed9eb2f1cddc2caf871e68318d24a",
+    "content-hash": "9d728f1c88eef59e652233845fa514a6",
     "packages": [
         {
             "name": "frameworks/jquery",
@@ -440,6 +440,45 @@
                 "templating"
             ],
             "time": "2020-02-11T15:31:23+00:00"
+        },
+        {
+            "name": "zurb/foundation",
+            "version": "v6.6.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/foundation/foundation-sites.git",
+                "reference": "2cca132b72921931f0a42a2081650e43f9f95678"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/foundation/foundation-sites/zipball/2cca132b72921931f0a42a2081650e43f9f95678",
+                "reference": "2cca132b72921931f0a42a2081650e43f9f95678",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Foundation Yetinauts",
+                    "email": "contact@get.foundation",
+                    "homepage": "https://get.foundation"
+                }
+            ],
+            "description": "The most advanced responsive front-end framework in the world.",
+            "homepage": "https://get.foundation",
+            "keywords": [
+                "JS",
+                "css",
+                "framework",
+                "mobile-first",
+                "responsive",
+                "sass",
+                "scss"
+            ],
+            "time": "2020-03-27T22:35:20+00:00"
         }
     ],
     "packages-dev": [
